@@ -1,0 +1,2 @@
+motionSolvers/displacement/solidBody/solidBodyMotionFunctions/oscillatingRotatingMotion/oscillatingRotatingOffsetMotion.C
+LIB = $(FOAM_USER_LIBBIN)/liboscillatingRotatingOffsetMotion
